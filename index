@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Homework3</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <div>
+        <a href="http://www.google.com/doodles/evidence-of-water-found-on-mars"><img src="http://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif" alt="在火星上發現水存在的證據" width="500"></a>
+    </div>
+    <hr>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d14462.182738006659!2d121.54270915!3d25.015548999999996!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-TW!2stw!4v1468496460156" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    <hr>
+    <table class="back">
+        <tr>
+            <td>
+                <table border="0">
+                    <tr>
+                        <td><img src="http://www.taiwanlottery.com.tw/images/intx_logo02.gif" alt="" width="80"></td>
+                        <td colspan="6">
+                            <b><font face="微軟正黑體">105/6/28 第105000058期</font></b>&nbsp;
+                            <b><font face="SimHei" color="red">開獎結果</font></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="block1">開出順序</td>
+                        <td class="namber">25</td>
+                        <td class="namber">46</td>
+                        <td class="namber">45</td>
+                        <td class="namber">08</td>
+                        <td class="namber">39</td>
+                        <td class="namber">07</td>
+                    </tr>
+                    <tr>
+                        <td class="block2">大小順序</td>
+                        <td class="namber">07</td>
+                        <td class="namber">08</td>
+                        <td class="namber">25</td>
+                        <td class="namber">39</td>
+                        <td class="namber">45</td>
+                        <td class="namber">46</td>
+                    </tr>
+                    <tr>
+                        <td class="block3">特別號</td>
+                        <td class="specialnamber">38</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table border="0">
+                    <tr>
+                        <td>
+                            <img src="http://www.taiwanlottery.com.tw/images/intx_logo08.gif" alt="" width="90" height="40">
+                        </td>
+                        <td colspan="6">
+                            <b><font face="微軟正黑體">105/6/28 第105000058期</font></b>&nbsp;
+                            <b><font face="SimHei" color="red">開獎結果</font></b>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="block1">開出順序</td>
+                        <td class="namber">25</td>
+                        <td class="namber">46</td>
+                        <td class="namber">45</td>
+                        <td class="namber">08</td>
+                        <td class="namber">39</td>
+                        <td class="namber">07</td>
+                    </tr>
+                    <tr>
+                        <td class="block2">大小順序</td>
+                        <td class="namber">07</td>
+                        <td class="namber">08</td>
+                        <td class="namber">25</td>
+                        <td class="namber">39</td>
+                        <td class="namber">45</td>
+                        <td class="namber">46</td>
+                    </tr>
+                    <tr>
+                        <td class="whiteball"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+    </table>
+</body>
+
+</html>
